@@ -8,3 +8,8 @@ Encapsular uma solicitação como um objeto, desta forma permitindo que clientes
 # Referências/Exemplos
  - http://amzn.to/1he63wd
  - http://www.csi.uneb.br/padroes_de_projetos/command_2.html
+```
+ public Main(){
+
+ }
+```
