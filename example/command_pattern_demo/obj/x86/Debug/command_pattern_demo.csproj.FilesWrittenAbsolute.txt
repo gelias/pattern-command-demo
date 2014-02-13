@@ -1,0 +1,5 @@
+/Users/gelias/workspace/dotnet/command_pattern_demo/command_pattern_demo/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/gelias/workspace/dotnet/command_pattern_demo/command_pattern_demo/bin/Debug/command_pattern_demo.exe.mdb
+/Users/gelias/workspace/dotnet/command_pattern_demo/command_pattern_demo/bin/Debug/command_pattern_demo.exe
+/Users/gelias/workspace/dotnet/command_pattern_demo/command_pattern_demo/obj/x86/Debug/command_pattern_demo.exe
+/Users/gelias/workspace/dotnet/command_pattern_demo/command_pattern_demo/obj/x86/Debug/command_pattern_demo.exe.mdb
